@@ -3,9 +3,13 @@
 > AI-powered Prompt Management & Creative Assistant – offline, powerful, and ultra-flexible.  
 > ✨ Built by [Piotr](https://github.com/bielaster) + ChatGPT
 
-![Screenshot](./assets/screenshot-main.png)  
-![Logo](./assets/logo.png)
+## 🖼️ Screenshots
 
+### 🎨 Creative Playground
+![Creative Playground](./assets/creative-playground-screenshot.png)
+
+### 🧪 Prompt Lab
+![Prompt Lab](./assets/prompt-lab-screenshot.png)
 ## 🚀 Features
 
 - 🎯 Prompt Refiner & Live Editor
